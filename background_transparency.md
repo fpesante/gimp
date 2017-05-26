@@ -1,3 +1,7 @@
+magic wand > color > color to alpha
+
+https://graphicdesign.stackexchange.com/questions/5446/making-the-background-of-an-image-transparent-in-gimp
+
 https://www.youtube.com/watch?v=DCoTky6ddcU
 
 Gimp- Remove Picture Background Tutorial
