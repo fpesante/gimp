@@ -1,4 +1,4 @@
-magic wand > color > color to alpha
+magic wand (click background) > colors: color to alpha > file: export as
 
 https://graphicdesign.stackexchange.com/questions/5446/making-the-background-of-an-image-transparent-in-gimp
 
